@@ -1,0 +1,10 @@
+/*
+borrarCookie
+setcookie["nombre"]
+---------------------------
+otra forma
+setcookie["nombre",false]
+---------------------------
+borrar con tiempo.
+setcookie ["nombre",false time()- 60*2]
+*/
