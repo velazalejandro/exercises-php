@@ -1,2 +1,7 @@
 # exercises-php
-- Varios scripts de PHP que contienen arrays, formularios, números aleatorios, cookies, sesiones...
+Varios scripts de PHP que contienen:
+-  Arrays
+-  Formularios
+-  Números aleatorios
+-  Cookies
+-  Sesiones
